@@ -158,7 +158,8 @@ console.log(error)
               <div className="social-site-logIn">
                 <button
                   onClick={() => signInWithFacebook()}
-               
+                  className="btn p-0 m-3"
+                  
                 >
                   <img
                     style={{ width: "40px", height: "40px" }}
