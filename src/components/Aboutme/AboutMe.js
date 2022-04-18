@@ -12,7 +12,7 @@ const aboutMe = () => {
        
     </div>
     <div className="col-lg-6">
-      <img className='w-75 pt-5' src="https://thumbs.dreamstime.com/b/man-formal-suit-man-formal-suit-white-background-107682590.jpg" alt="" />
+      <img className='w-75 pt-5' src="https://www.pngkit.com/png/detail/106-1062969_sales-guy-formal-wear.png" alt="" />
         </div>
 </div>
         </div>

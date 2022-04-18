@@ -17,12 +17,12 @@ const Banner = () => {
           <div class="carousel-item active first-item ">
             <div className="row">
               <div className="col-lg-7 ">
-                <h1 className="fw-bold tutuor text-info  ps-5">
+                <h1 className="fw-bold tutuor text-info  ps-lg-5">
                   {" "}
                   Professional Tutor
                   <span className="text-black"> for Your Children</span>
                 </h1>
-                <p className="details ps-5">
+                <p className="details ps-lg-5">
                 I am a  a tutor  in Dhaka city. I am providing quality home tutor sine 2014. To finding the perfect and best tutor in all over in Dhaka city you should must contact with to me
                 </p>
               </div>
@@ -38,12 +38,12 @@ const Banner = () => {
           <div class="carousel-item  first-item ">
             <div className="row">
               <div className="col-lg-7 ">
-                <h1 className="fw-bold tutuor  text-info  ps-5">
+                <h1 className="fw-bold tutuor  text-info  ps-lg-5">
                   {" "}
                   Professional Tutor
                   <span className="text-black"> for Your Children</span>
                 </h1>
-                <p className="details ps-5">
+                <p className="details ps-lg-5">
                 I am a  a tutor  in Dhaka city. I am providing quality home tutor sine 2014. To finding the perfect and best tutor in all over in Dhaka city you should must contact with to me
               
                 </p>

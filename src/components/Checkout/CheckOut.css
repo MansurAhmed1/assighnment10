@@ -8,3 +8,10 @@
 .all-image div img{
     height: 400px;
 }
+@media (max-width:660px) {
+    .all-image{
+        display: grid;
+        grid-template-columns: auto  ;
+     
+    }
+}
